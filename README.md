@@ -1,1 +1,3 @@
-# Space.T-Gallery
+This is Space.T a virtual gallery, aiming to respond to the need for more collaboration among the Triple Helix actors (public sector, private sector, talent initiatives) of TOMAS, a project for talent development within the Amsterdam region, sponsored by the Municipality of Amsterdam.
+
+You can guide into the gallery using wasd or the arrows to follow the narrative voice which will guide you.
